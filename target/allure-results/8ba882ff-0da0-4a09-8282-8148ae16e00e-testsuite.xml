@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1538728019492" stop="1538728019741" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : test_allure_two_million_again</name>
+    <title>Default Suite : test_allure_two_million_again</title>
+    <test-cases>
+        <test-case start="1538728019614" stop="1538728019706" status="passed">
+            <name>s1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="test_allure_two_million_again"/>
+                <label name="testClass" value="com.mysite.smokeTest.SmokeTest"/>
+                <label name="testMethod" value="s1"/>
+                <label name="host" value="IT-48"/>
+                <label name="thread" value="10616@IT-48.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1538728019710" stop="1538728019714" status="passed">
+            <name>s2</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="test_allure_two_million_again"/>
+                <label name="testClass" value="com.mysite.smokeTest.SmokeTest"/>
+                <label name="testMethod" value="s2"/>
+                <label name="host" value="IT-48"/>
+                <label name="thread" value="10616@IT-48.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1538728019718" stop="1538728019722" status="passed">
+            <name>s3</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="test_allure_two_million_again"/>
+                <label name="testClass" value="com.mysite.smokeTest.SmokeTest"/>
+                <label name="testMethod" value="s3"/>
+                <label name="host" value="IT-48"/>
+                <label name="thread" value="10616@IT-48.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
